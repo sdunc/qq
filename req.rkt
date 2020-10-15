@@ -22,3 +22,9 @@
 
 (get-series-req res-list)
 (get-parallel-req res-list)
+
+; add interval calculations for tolerances
+; add a resistor lookup calculator
+; and a reverse lookup
+; give 4 or 5 colors = value
+; give value = 4 / 5 colors
